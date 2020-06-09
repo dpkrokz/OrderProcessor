@@ -1,0 +1,6 @@
+D:\Practice\OrderProcessor\OrderProcessor\OrderProcessor\obj\Debug\OrderProcessor.csprojAssemblyReference.cache
+D:\Practice\OrderProcessor\OrderProcessor\OrderProcessor\bin\Debug\OrderProcessor.exe.config
+D:\Practice\OrderProcessor\OrderProcessor\OrderProcessor\bin\Debug\OrderProcessor.exe
+D:\Practice\OrderProcessor\OrderProcessor\OrderProcessor\bin\Debug\OrderProcessor.pdb
+D:\Practice\OrderProcessor\OrderProcessor\OrderProcessor\obj\Debug\OrderProcessor.exe
+D:\Practice\OrderProcessor\OrderProcessor\OrderProcessor\obj\Debug\OrderProcessor.pdb
